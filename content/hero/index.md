@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
+name: 'Tyler Riedal'
 subtitle: 'I build things for the web.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a software consultant based in Saint Petersburg, FL, specializing in building exceptional websites, applications, and everything in between.

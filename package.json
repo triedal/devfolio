@@ -1,5 +1,5 @@
 {
-  "name": "v4",
+  "name": "devfolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
@@ -15,7 +15,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "yarn develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },

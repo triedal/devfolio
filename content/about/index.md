@@ -5,15 +5,14 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
+  - NestJS
   - Node.js
-  - WordPress
+  - GraphQL
+  - Redux
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm a software consultant based in Saint Petersburg, FL, that specializes in helping businesses solve problems through high-quality technical solutions. I have over five years of experience developing solutions for a myriad of industries, including e-commerce, fintech, real estate, and digital media.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Outside of technology, I am passionate about real estate investing, my cat, and driving cars with more horsepower than required to get where I'm going
 
 Here are a few technologies I've been working with recently:
