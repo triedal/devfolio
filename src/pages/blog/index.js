@@ -124,7 +124,7 @@ const BlogPage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Blog | Tyler Riedal</title>
-        <link rel="canonical" href="https://brittanychiang.com/blog" />
+        <link rel="canonical" href="https://bluehelixsoftware.com/blog" />
       </Helmet>
 
       <StyledMainContainer>

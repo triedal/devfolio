@@ -4,7 +4,7 @@ module.exports = {
     'Tyler Riedal is a software consultant based in Saint Petersburg, FL who specializes in building exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Tyler Riedal, Tyler, Riedal, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://www.bluehelixsoftware.com',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-45666519-2',
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
