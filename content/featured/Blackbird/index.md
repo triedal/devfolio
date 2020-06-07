@@ -15,7 +15,7 @@ tech:
 showInProjects: true
 ---
 
-Blackbird is a lead generation platform built for [Singurealty, Inc](https://www.singurealty.com). Since its inception, Blackbird has generated over \$3 million in sales.
+Blackbird is a lead generation platform built for [Singurealty, Inc](https://www.singurealty.com). Since its inception Blackbird has generated over \$3 million in sales.
 
 ---
 
