@@ -4,7 +4,7 @@ import { FormattedIcon } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
-const { colors, fontSizes, fonts } = theme;
+const { colors } = theme;
 
 const StyledContainer = styled.footer`
   ${mixins.flexCenter};
@@ -34,15 +34,6 @@ const StyledSocialLink = styled.a`
     width: 20px;
     height: 20px;
   }
-`;
-const StyledMetadata = styled.div`
-  font-family: ${fonts.SFMono};
-  font-size: ${fontSizes.xs};
-  line-height: 1;
-`;
-const StyledGitHubLink = styled.a`
-  color: ${colors.lightSlate};
-  padding: 10px;
 `;
 
 const Footer = () => {
@@ -85,14 +76,6 @@ const Footer = () => {
             ))}
         </StyledSocialList>
       </StyledSocial>
-      <StyledMetadata tabindex="-1">
-        <StyledGitHubLink
-          href="https://github.com/bchiang7"
-          target="_blank"
-          rel="nofollow noopener noreferrer">
-          <div>Site design by @bchiang7</div>
-        </StyledGitHubLink>
-      </StyledMetadata>
     </StyledContainer>
   );
 };
